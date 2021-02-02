@@ -21,6 +21,7 @@ ul {
 ol {
     list-style: upper-roman;}
 
-tr:hover{color:lightblue}
+tr:hover{
+    color:lightblue}
 tr:nth-child(even){
     color:lightgray}
